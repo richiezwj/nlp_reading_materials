@@ -1,7 +1,30 @@
 # nlp_reading_materials
 Some links to useful materials if anyone wants to learn about ML with a focus on NLP
 
+## Awesome-papers
+
+### Word Embeddings
+
+- [x] Word2Vec:Distributed Representations of Words and Phrasesand their Compositionality, 2013 [paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- [x] **GloVE**: GloVe: Global Vectors for Word Representation, 2014 [paper](https://nlp.stanford.edu/pubs/glove.pdf)
+- [x] **ELMo**: Deep contextualized word representations, 2018 [paper](https://arxiv.org/pdf/1802.05365.pdf)
+
+### Machine translation, Seq-2-Seq Models
+ - [x] **Seq2Seq**: Sequence to Sequence Learning with Neural Networks, 2014 [paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+  - [x] **Seq2Seq with Attention**: Neural Machine Translation by Jointly Learning to Align and Translate, 2014[paper] (https://arxiv.org/pdf/1409.0473.pdf)
+  - [x] **Transformer**: Attention Is All You Need, 2017 [paper](https://arxiv.org/pdf/1706.03762.pdf)
+ 
+### Language Models
+ - [x]: **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018 [paper](https://arxiv.org/pdf/1810.04805.pdf)
+ - [x]: **GPT**: 
+ 
+### Literature reviews and summerizations
+- [x] Recent Trends in Deep Learning Based Natural Language Processing, 2017 [paper](https://arxiv.org/pdf/1708.02709.pdf)
+- [x]
+
+
 ## Awesome-blogs
-- Everyone knows it if you ever work on NLP: http://ruder.io/
-- Awesome visualization for understanding representative ML concepts/works: https://jalammar.github.io/
-- Awesome overview of some popular ML concepts/sub-fields: https://lilianweng.github.io/lil-log/
+- Everyone knows it if you ever work on NLP: [blog](http://ruder.io/)
+- Awesome visualization for understanding representative ML concepts/works: [blog](https://jalammar.github.io/)
+- Awesome overview of some popular ML concepts/sub-fields: [blog](https://lilianweng.github.io/lil-log/)
+
