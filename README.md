@@ -10,7 +10,7 @@ Some links to useful materials if anyone wants to learn about ML with a focus on
 
 ### Machine translation, Seq-2-Seq Models
  - **Seq2Seq**: Sequence to Sequence Learning with Neural Networks, 2014 [paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
- - **Seq2Seq with Attention**: Neural Machine Translation by Jointly Learning to Align and Translate, 2014 [paper] (https://arxiv.org/pdf/1409.0473.pdf)
+ - **Seq2Seq with Attention**: Neural Machine Translation by Jointly Learning to Align and Translate, 2014 [paper](https://arxiv.org/pdf/1409.0473.pdf)
  - **Transformer**: Attention Is All You Need, 2017 [paper](https://arxiv.org/pdf/1706.03762.pdf)
  
 ### Language Models
