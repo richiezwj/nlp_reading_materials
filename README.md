@@ -14,8 +14,10 @@ Some links to useful materials if anyone wants to learn about ML with a focus on
  - **Transformer**: Attention Is All You Need, 2017 [paper](https://arxiv.org/pdf/1706.03762.pdf)
  
 ### Language Models
+ - **GPT**: Improving Language Understanding by Generative Pre-Training, 2018 [paper](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
  - **BERT**: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018 [paper](https://arxiv.org/pdf/1810.04805.pdf)
- - **GPT**: 
+ - **GPT2**: Language Models are Unsupervised Multitask Learners, 2019 [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+ - **XLNet**: XLNet: Generalized Autoregressive Pretraining for Language Understanding, 2019 [paper](https://arxiv.org/pdf/1906.08237.pdf)
  
 ### Literature reviews and summerizations
 - Recent Trends in Deep Learning Based Natural Language Processing, 2017 [paper](https://arxiv.org/pdf/1708.02709.pdf)
