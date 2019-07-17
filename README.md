@@ -23,6 +23,9 @@ Some links to useful materials if anyone wants to learn about ML with a focus on
 ### Literature reviews and summerizations
 - Recent Trends in Deep Learning Based Natural Language Processing, 2017 [paper](https://arxiv.org/pdf/1708.02709.pdf)
 
+### Benchmark
+- **SentEval**: An Evaluation Toolkit for Universal Sentence Representations, 2018 [code](https://github.com/facebookresearch/SentEval), [paper](https://arxiv.org/pdf/1803.05449.pdf)
+- **GLUE**: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding, 2018 [link](https://gluebenchmark.com/), [paper](https://arxiv.org/pdf/1804.07461.pdf)
 
 
 ## Awesome-blogs
