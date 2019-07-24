@@ -20,6 +20,9 @@ Some links to useful materials if anyone wants to learn about ML with a focus on
  - **GPT2**: Language Models are Unsupervised Multitask Learners, 2019 [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
  - **XLNet**: Generalized Autoregressive Pretraining for Language Understanding, 2019 [paper](https://arxiv.org/pdf/1906.08237.pdf)
  
+ ### Topic Modeling ###
+ - **LDA**: Latent dirichlet allocation, 2003 [paper](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+ 
 ### Literature reviews and summerizations
 - Recent Trends in Deep Learning Based Natural Language Processing, 2017 [paper](https://arxiv.org/pdf/1708.02709.pdf)
 
